@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ramakantdhruw14-dotcom/ramakantdhruw14-dotcom/commit/d6d615d98234d3798be403b35c1047f94c783283" alt="Profile Banner" width="100%">
+  <img src="https://github.com/ramakantdhruw14-dotcom/ramakantdhruw14-dotcom/blob/main/GreyandBlackSimpleOpeningSoonBanne%20(1).jpeg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramakant Dhruw!</h1>
