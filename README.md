@@ -13,7 +13,7 @@ pattern recognition , machine learning, mobile application de</h3>
 - 🔭 I’m currently working on: **Bachlor of Commerce**
 - 💬 Ask me about: **Photogrophy**
 - 📫 How to reach me: [ramakantdhruw14@gmail.com](mailto:ramakantdhruw14@gmail.com)
-- 👨‍💻 **[My Portfolio](https://docs.google.com/presentation/d/13j7ITfmqOYVczO8fc9ftE68VJnZgq2busi3Ws21tE2o/edit?slide=id.g3a8f0686c0b_0_142#slide=id.g3a8f0686c0b_0_142)**
+- 👨‍💻 **[My Portfolio](https://docs.google.com/presentation/d/13j7ITfmqOYVczO8fc9ftE68VJnZgq2busi3Ws21tE2o/edit?usp=sharing)**
 - 📄 **[My Resume](file:///C:/Users/ramak/Downloads/RAMAKANT%20DHRUW.RESUME%20(1).pdf)**
 - ⚡ Fun fact: **i am  walks 3–5 miles a day just moving between classes (campus cardio!).**
 
